@@ -1,0 +1,10 @@
+build/
+.gradle/
+bin/
+.vscode/
+.idea
+gradle/
+.gitpod.yml
+gradlew
+gradlew.bat
+.DS_Store
